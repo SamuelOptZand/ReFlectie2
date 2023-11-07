@@ -1,1 +1,8 @@
-test
+Wat heb ik geleerd?
+--Hoe github werkt
+
+Wat wist ik al?
+--Niks
+
+Waarvan zou je nog meer willen weten?
+--Hoe branches werken
